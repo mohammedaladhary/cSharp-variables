@@ -31,10 +31,17 @@ internal class Program
         string b = Console.ReadLine();
 
         Console.WriteLine("<==Swap==>");
-        (a, b) = (b, a);
+        //(a, b) = (b, a);
+        string c;
+        //c=b
+        //b=a
 
+        c = a;
+        a = b;
+        b = c;
         Console.WriteLine(a);
         Console.WriteLine(b);
+
 
 
 
