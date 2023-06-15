@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\code_TRA\practice1\bin\Debug\net6.0\practice1.exe
+C:\Users\DELL\Desktop\code_TRA\practice1\bin\Debug\net6.0\practice1.deps.json
+C:\Users\DELL\Desktop\code_TRA\practice1\bin\Debug\net6.0\practice1.runtimeconfig.json
+C:\Users\DELL\Desktop\code_TRA\practice1\bin\Debug\net6.0\practice1.dll
+C:\Users\DELL\Desktop\code_TRA\practice1\bin\Debug\net6.0\practice1.pdb
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.dll
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\refint\practice1.dll
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.pdb
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\practice1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\code_TRA\practice1\obj\Debug\net6.0\ref\practice1.dll

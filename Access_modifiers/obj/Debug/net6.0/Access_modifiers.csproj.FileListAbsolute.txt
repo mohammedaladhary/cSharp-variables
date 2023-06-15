@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\bin\Debug\net6.0\Access_modifiers.exe
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\bin\Debug\net6.0\Access_modifiers.deps.json
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\bin\Debug\net6.0\Access_modifiers.runtimeconfig.json
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\bin\Debug\net6.0\Access_modifiers.dll
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\bin\Debug\net6.0\Access_modifiers.pdb
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.AssemblyInfo.cs
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.dll
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\refint\Access_modifiers.dll
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.pdb
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\Access_modifiers.genruntimeconfig.cache
+C:\Users\DELL\Desktop\code_TRA\Access_modifiers\obj\Debug\net6.0\ref\Access_modifiers.dll
