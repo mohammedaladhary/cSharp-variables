@@ -5,7 +5,8 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
-                Shape[] design = new Shape[4];
+            Console.WriteLine("---------------------shape----------------------");
+            Shape[] design = new Shape[4];
                 design[0] = new Circle(2);
                 design[1] = new Rectangle(3, 5);
                 design[2] = new Triangle(4, 7);

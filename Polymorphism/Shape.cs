@@ -13,7 +13,7 @@ namespace Polymorphism
 
     internal class Circle : Shape
     {
-        public double Radius;
+        public double Radius; // instance variable
 
         public Circle(double radius)
         {
